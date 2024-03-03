@@ -36,4 +36,4 @@ After running the command, Streamlit will start the web application. Open the pr
 
 - OpenAI for the GPT model and API.
 - The creators of the `youtube_text_converter` and `dotenv` Python packages.
-- This project was inspired by and utilizes content from the following YouTube video: [AI Code Recipes with OpenAI](https://www.youtube.com/watch?v=qHPonmSX4Ms&pp=ygUTZnJlZWNvZGVjYW1wIG9wZW5haQ%3D%3D).
+- This project was inspired by and utilizes content from the following YouTube video: [OpenAI Assistants API – Course for Beginners](https://www.youtube.com/watch?v=qHPonmSX4Ms&pp=ygUTZnJlZWNvZGVjYW1wIG9wZW5haQ%3D%3D).
